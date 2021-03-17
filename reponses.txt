@@ -1,0 +1,6 @@
+QUESTION 1: Dans un petit paragraphe, a l'aide de documentation et d'autre experimentations
+expliquez à quoi peut servir cette outil. Quel alternative lui connaissez vous pour enchaîner des
+commandes systême? Quels sont les differences entre ces deux manières de faire?
+
+Reponse Question 1 : 
+l'outil makefile (make) sert à executé une ou plusieur commande a la fois via la commande make.
